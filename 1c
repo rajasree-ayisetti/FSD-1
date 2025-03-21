@@ -1,0 +1,24 @@
+<!DOCTYPE >
+<html>
+    <head>
+        <title>Image</title>
+    </head>
+    <body align="center" style="background-color:darkgray" ><br>
+        <table>
+            <td>
+                <h1>My Profile</h1>
+                <a href="https:github.com/rajasree-ayisetti//FSD-I" target="blank">
+                    <img src="https://img.lovepik.com/free-png/20220127/lovepik-female-avatar-elements-of-womens-day-png-image_401901116_wh1200.png" alt="No image" width="400" height="400">
+                </a>
+            </td>
+            <td>
+                <h1>My Friend's Profile</h1>
+                <a href="https:github.com/Pavanichitturi12" target="blank">
+                    <img src="https://t4.ftcdn.net/jpg/06/43/68/65/360_F_643686558_Efl6HB1ITw98bx1PdAd1wy56QpUTMh47.jpg" alt="No image" width="400" height="400">
+                </a>
+            </td>
+        </table>
+
+
+    </body>
+</html>
