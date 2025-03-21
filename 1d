@@ -1,0 +1,29 @@
+<!DOCTYPE >
+<html>
+    <head>
+        <title>Gallery</title>
+    </head>
+    <body style="background-color:lightblue;">
+        <table border="0">
+            <td>
+                <p align="center">Image1</p>
+                <a href="https://cdn.mos.cms.futurecdn.net/ARWms77gyVZ5u2MZkQqcKc-1200-80.jpg" target="blank">
+                    <img src="https://cdn.mos.cms.futurecdn.net/ARWms77gyVZ5u2MZkQqcKc-1200-80.jpg" alt="Not found" width="200" height="200">
+                </a>
+            </td>
+            <td>
+                <p align="center">Image2</p>
+                <a href="https://images.immediate.co.uk/production/volatile/sites/10/2023/06/2048x1365-Oak-trees-SEO-GettyImages-90590330-b6bfe8b.jpg" target="blank">
+                    <img src="https://images.immediate.co.uk/production/volatile/sites/10/2023/06/2048x1365-Oak-trees-SEO-GettyImages-90590330-b6bfe8b.jpg" alt="Not found" width="200" height="200">
+                </a>
+            </td>
+            <td>
+                <p align="center">Image3</p>
+                <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoQAyTLUN24CyOa125YYj2V3_ru7pMUAJevQ&" target="blank">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoQAyTLUN24CyOa125YYj2V3_ru7pMUAJevQ&s" alt="Not found" width="200" height="200">
+                </a>
+            </td>
+        </table>
+
+    </body>
+</html>
