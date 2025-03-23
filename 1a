@@ -1,0 +1,46 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My List</title>
+</head>
+<body style="background-color:azure;">
+
+    <h1 style="color: indianred;">Nested List</h1>
+
+    <ul >
+        
+    <h2 style="color: cornflowerblue;">Fruits</h2>
+        <ol>
+            <li>Apple</li>
+            <li>Mango</li>
+            <li>Grapes</li>
+            <li>Pineapple</li>
+        </ol>
+        
+    </ul>
+
+        <ul >
+            
+          <h2 style="color: cornflowerblue;">Vegetables</h2>  
+             <ol>
+                <li>Potato</li>
+                 <li>Tomato</li>
+                 <li>Carrot</li>
+                 <li>Spinach</li>
+            </ol>
+        </ul>
+
+    <ul >
+        
+    <h2 style="color: cornflowerblue;">Dairy Products</h2>
+        <ol>
+            <li>Milk</li>
+            <li>Butter</li>
+            <li>Cheese</li>
+            <li>Curd</li>
+        </ol>
+    </ul>
+
+</body>
+</html>
